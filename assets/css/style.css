@@ -1,0 +1,46 @@
+body{
+    background: lightslategray;
+}
+.jumbotron {
+    text-align: center;  
+    background: url('../images/disney.jpg') no-repeat center;
+    background-size: cover; 
+    min-height: 500px;
+}
+
+.jumbotron h1 {
+    font-weight: bold;
+    font-family: cursive;
+    color:#fff;
+}
+
+.jumbotron p {
+    font-family: cursive;
+    font-size: small;
+    color:#fff;
+}
+
+.btn {
+    margin: 0 5px;
+}
+img {
+    max-width: 200px;
+    margin: 10px;
+}
+
+#gifs-appear-here {
+    margin: 20px 0;
+}
+
+.movie-wrap {
+    display: inline-block;
+}
+
+.entry {
+    margin: 10px;
+}
+.entry p {
+    font-family: cursive;
+    font-weight: bold;
+    margin: 10px;
+}
